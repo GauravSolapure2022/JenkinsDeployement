@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='green'>Codetech Carporate Training Center Pune !!<font></h1>
+<h1><font color='red'>Codetech Carporate Training Center Deccan Pune !!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
 
